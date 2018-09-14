@@ -1,7 +1,7 @@
 {
   "name": "assert-strict",
-  "version": "0.0.0",
-  "description": "node assert is deprecated in favour of assert.strict, commonjs-assert doesn't support strict mode. Get the strictest assert possible today!",
+  "version": "0.0.1",
+  "description": "node `assert` is deprecated in favour of `assert.strict`, but `commonjs-assert` doesn't support strict mode. Get the strictest assert possible today!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
