@@ -6,7 +6,7 @@ instead of:
 ```js
 import assertModule from 'assert';
 
-const assert = assert.strict || assert;
+const assert = assertModule.strict || assertModule;
 ```
 
 in every test just do this:

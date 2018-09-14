@@ -1,6 +1,6 @@
 {
   "name": "assert-strict",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node `assert` is deprecated in favour of `assert.strict`, but `commonjs-assert` doesn't support strict mode. Get the strictest assert possible today!",
   "main": "index.js",
   "scripts": {
