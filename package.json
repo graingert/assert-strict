@@ -1,0 +1,25 @@
+{
+  "name": "assert-strict",
+  "version": "0.0.0",
+  "description": "node assert is deprecated in favour of assert.strict, commonjs-assert doesn't support strict mode. Get the strictest assert possible today!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/assert-strict.git"
+  },
+  "keywords": [
+    "assert",
+    "strict",
+    "commonjs",
+    "browser"
+  ],
+  "author": "Thomas Grainger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graingert/assert-strict/issues"
+  },
+  "homepage": "https://github.com/graingert/assert-strict#readme"
+}
